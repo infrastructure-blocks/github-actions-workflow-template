@@ -2,6 +2,7 @@
 
 This repository is a template for creating reusable GitHub Actions Workflows. Go through the below checklist
 upon instantiating this template:
+- Remove the [automatic template update workflow](.github/workflows/trigger-update-from-template.yml)
 - Rename and replace the content of [the placeholder](.github/workflows/reusable-workflow.yml) for your reusable workflow.
 - Edit this section and the usage section and replace with a meaningful description of your workflow
 
